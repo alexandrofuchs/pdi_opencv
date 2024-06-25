@@ -1,16 +1,4 @@
 # opencv_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Ferramenta desenvolvida para matéria Optativa de Processamento de Imagens do curso de Bacharelado em Ciencia da Computação(UTFPR);
+- O intuito da ferramenta consiste em fornecer uma interface gráfica que facilite o uso de recursos de processamento de imagens com OpenCV;
+- Com minha experiência com Tech Mobile decidi por criar uma ferramenta mobile para processamento de imagens integrando com recursos do OpenCV(python) por meio de scripts python executados por meio do SDK Chacopy.
